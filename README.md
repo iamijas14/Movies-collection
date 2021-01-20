@@ -1,2 +1,2 @@
-# Movies-collection
+# Minions-talks
 Created with CodeSandbox
